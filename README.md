@@ -2,15 +2,14 @@
 
 A modern blog platform focused on AI and technology, built with React, NestJS, and MongoDB.
 
-## 🎥 Demo
+## 🎥 Preview
 
-![FutureTech Demo](api/assets/demo.gif)
 
 ![FutureTech Banner](client/public/banner.png)
 
 ## 🎥 Demo
 
-![FutureTech Demo](demo.gif)
+![FutureTech Demo](https://github.com/yasin-erkan/FutureTech-Blog-Platform/blob/main/client/src/assets/images/FutureTech-Blog.gif)
 
 ## 🚀 Features
 
